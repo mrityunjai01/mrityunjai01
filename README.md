@@ -13,17 +13,11 @@
 
 
 ### Languages and Tools:
-English, I don't believe in the notion of "learning" computer scripting languages
-
-<a href="https://github.com/mrityunjai01">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrityunjai01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/mrityunjai01">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mrityunjai01&layout=compact&theme=radical" />
-</a>
+English
 
 ---
 
-
+email: mrityunjaisingh 3 3 3 3 @ gmail . com
 [twitter]: https://twitter.com/
 [facebook]: https://www.facebook.com/profile.php?id=100034391482761
 [instagram]: https://www.instagram.com/mrityunjai99
