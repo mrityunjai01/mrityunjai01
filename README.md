@@ -1,11 +1,3 @@
-### Hi there
-🔭 student  
-🌱 interested in devops  
-🌱 interested in artificial intelligence solutions  
-I operate by http://sl4.org/crocker.html.  
-
-### Languages and Tools:
-English
 
 ---
 
