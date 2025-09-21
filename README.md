@@ -1,8 +1,9 @@
-
+# Mrityunjai
 ---
+I'm an AI developer, here's a few things I'm working on:
+- Autograd for numpy
+- VLLM (Inference for LLM Models)
+- GPT built from Rust
 
-email: mrityunjaisingh 3 3 3 3 @ gmail . com
-[twitter](https://twitter.com)
-[facebook](https://www.facebook.com/profile.php?id=10003439148276)
-[instagram](https://www.instagram.com/mrityunjai99)
-[linkedin](https://www.linkedin.com/in/mrityunjai-singh-301019195/)
+
+- email: mrityunjaisingh 3 3 3 3 @ gmail . com
